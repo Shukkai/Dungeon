@@ -1,0 +1,320 @@
+# depslib dependency file v1.0
+1586327094 source:d:\c++\dungeon\dungeon\dungeon.cpp
+	"Dungeon.h"
+
+1586326232 d:\c++\dungeon\dungeon\dungeon.h
+	<iostream>
+	<string>
+	<vector>
+	<exception>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+
+1586326232 d:\c++\dungeon\dungeon\player.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1586326232 d:\c++\dungeon\dungeon\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1586326232 d:\c++\dungeon\dungeon\object.h
+	<iostream>
+	<string>
+	<vector>
+
+1586326232 d:\c++\dungeon\dungeon\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+
+1586326232 d:\c++\dungeon\dungeon\item.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1586326232 d:\c++\dungeon\dungeon\monster.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+
+1586326232 d:\c++\dungeon\dungeon\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1586412914 d:\c++\dungeon\dungeon\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<utility>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\gamecharacter.cpp
+	"GameCharacter.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\item.cpp
+	"Item.h"
+
+1586761373 source:d:\c++\dungeon\dungeon\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Dungeon.h"
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\monster.cpp
+	"Monster.h"
+
+1586760713 source:d:\c++\dungeon\dungeon\npc.cpp
+	"NPC.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\object.cpp
+	"Object.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\player.cpp
+	"Player.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\record.cpp
+	"Record.h"
+
+1586326232 source:d:\c++\dungeon\dungeon\room.cpp
+	"Room.h"
+
+1650578505 source:c:\資結作業\dungeon\dungeon.cpp
+	"Dungeon.h"
+
+1650571095 c:\資結作業\dungeon\dungeon.h
+	<iostream>
+	<string>
+	<vector>
+	<exception>
+	<ctime>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+	<bits/stdc++.h>
+
+1650576738 c:\資結作業\dungeon\player.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1650120392 c:\資結作業\dungeon\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1649392285 c:\資結作業\dungeon\object.h
+	<iostream>
+	<string>
+	<vector>
+
+1650170511 c:\資結作業\dungeon\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+
+1650176353 c:\資結作業\dungeon\item.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1650571080 c:\資結作業\dungeon\monster.h
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	"GameCharacter.h"
+	"Player.h"
+
+1586699066 c:\資結作業\dungeon\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1586699066 c:\資結作業\dungeon\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650285755 source:c:\資結作業\dungeon\gamecharacter.cpp
+	"GameCharacter.h"
+
+1650397656 source:c:\資結作業\dungeon\item.cpp
+	"Item.h"
+
+1650576645 source:c:\資結作業\dungeon\monster.cpp
+	"Monster.h"
+
+1650572680 source:c:\資結作業\dungeon\npc.cpp
+	"NPC.h"
+
+1650576701 source:c:\資結作業\dungeon\player.cpp
+	"Player.h"
+
+1650569535 source:c:\資結作業\dungeon\record.cpp
+	"Record.h"
+
+1650170512 source:c:\資結作業\dungeon\room.cpp
+	"Room.h"
+
+1649389867 source:c:\資結作業\dungeon\object.cpp
+	"Object.h"
+
+1650526163 source:c:\資結作業\dungeon\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Dungeon.h"
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650587360 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\dungeon.cpp
+	"Dungeon.h"
+
+1650571095 c:\learn\資結作業\hw1_110550110\dungeon_110550110\dungeon.h
+	<iostream>
+	<string>
+	<vector>
+	<exception>
+	<ctime>
+	"Player.h"
+	"Monster.h"
+	"NPC.h"
+	"Room.h"
+	"Record.h"
+	<bits/stdc++.h>
+
+1650576738 c:\learn\資結作業\hw1_110550110\dungeon_110550110\player.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Room.h"
+	"Item.h"
+
+1650120392 c:\learn\資結作業\hw1_110550110\dungeon_110550110\gamecharacter.h
+	<iostream>
+	<string>
+	"Object.h"
+
+1649392285 c:\learn\資結作業\hw1_110550110\dungeon_110550110\object.h
+	<iostream>
+	<string>
+	<vector>
+
+1650170511 c:\learn\資結作業\hw1_110550110\dungeon_110550110\room.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+
+1650176353 c:\learn\資結作業\hw1_110550110\dungeon_110550110\item.h
+	<iostream>
+	<string>
+	<vector>
+	"Object.h"
+	"Player.h"
+
+1650571080 c:\learn\資結作業\hw1_110550110\dungeon_110550110\monster.h
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	"GameCharacter.h"
+	"Player.h"
+
+1586699066 c:\learn\資結作業\hw1_110550110\dungeon_110550110\npc.h
+	<iostream>
+	<string>
+	<vector>
+	"GameCharacter.h"
+	"Player.h"
+	"Item.h"
+
+1586699066 c:\learn\資結作業\hw1_110550110\dungeon_110550110\record.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650285755 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\gamecharacter.cpp
+	"GameCharacter.h"
+
+1650397656 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\item.cpp
+	"Item.h"
+
+1650526163 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Dungeon.h"
+	"Item.h"
+	"Monster.h"
+	"NPC.h"
+	"Player.h"
+
+1650576645 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\monster.cpp
+	"Monster.h"
+
+1650572680 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\npc.cpp
+	"NPC.h"
+
+1649389867 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\object.cpp
+	"Object.h"
+
+1650576701 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\player.cpp
+	"Player.h"
+
+1650569535 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\record.cpp
+	"Record.h"
+
+1650170512 source:c:\learn\資結作業\hw1_110550110\dungeon_110550110\room.cpp
+	"Room.h"
+
